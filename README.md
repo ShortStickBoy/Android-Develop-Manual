@@ -8,6 +8,12 @@
 
 - **[性能优化](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)**
 
+## 第三方库
+
+- **[开源控件](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/%E5%BC%80%E6%BA%90%E6%8E%A7%E4%BB%B6.md)**
+
+- **[开源框架](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6.md)**
+
 
 **马克飞象**是一款专为印象笔记（Evernote）打造的Markdown编辑器，通过精心的设计与技术实现，配合印象笔记强大的存储和同步功能，带来前所未有的书写体验。特点概述：
  
