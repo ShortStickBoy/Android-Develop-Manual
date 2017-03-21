@@ -22,6 +22,8 @@
 
 - **[性能优化](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)**
 
+- **[设计模式](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)**
+
 ## 第三方库
 
 - **[开源控件](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/%E5%BC%80%E6%BA%90%E6%8E%A7%E4%BB%B6.md)**
