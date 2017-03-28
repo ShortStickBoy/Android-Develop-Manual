@@ -3,7 +3,7 @@
 **Android 开发手册**是一个针对 Android 开发的知识点进行汇总、分类、整理而建的项目。特点概述：
  
 - **开发工具** ：[开发工具](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
-- **开发技术** ：优秀文章、开发技巧、性能优化、设计模式
+- **开发技术** ：[优秀文章](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0.md)、[开发技巧](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7.md)、[性能优化](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)、[设计模式](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 - **第三方库** ：开源控件、开源框架
 - **资源收集** ：资源收集
 - **问题汇总** ：问题汇总
