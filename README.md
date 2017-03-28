@@ -17,6 +17,3 @@
 - **问题汇总** ：
 [问题汇总](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
 
----------
-感谢阅读这份帮助文档。请点击右上角，绑定印象笔记账号，开启全新的记录与分享体验吧。
-
