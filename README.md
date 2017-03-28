@@ -5,7 +5,7 @@
 - **开发工具** ：
 [开发工具](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
 - **基础知识** ：
-[Java基础](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
+[Java基础](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)、
 [安卓基础](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
 - **开发技术** ：
 [优秀文章](https://github.com/ShortStickBoy/Android-Develop-Manual/blob/master/%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF/%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0.md)、
